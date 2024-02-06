@@ -108,7 +108,7 @@ params:
     stickyNavBar:
       enable : true
       showOnScrollUp : true
-    menus:xavier-flajeolet
+    menus:
       disableAbout: false
       disableExperience: false
       disableEducation: false
