@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
 
-outputs:xavier-flajeolet
+outputs:
   home:
     - "HTML"
     - "RSS"
